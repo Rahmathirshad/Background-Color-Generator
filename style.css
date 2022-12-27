@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    /* background: linear-gradient(to right, #e30000e3, yellow); */
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+.heading{
+    color: rgb(72, 63, 63);
+    font: 600 3.5em 'Raleway', sans-serif;
+    text-align: center;
+    letter-spacing: .5em;
+}
+.heading2{
+    color: rgb(72, 63, 63);
+    font: 600 1.5em 'Raleway', sans-serif;
+    text-align: center;
+    letter-spacing: .5em;
+}
+.clrBtn{
+    padding: 5px 30px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+
+}
